@@ -1,6 +1,6 @@
 # READ-ME
 WHO AM I?
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Chard 👋
 
 ### 🎧 About Me
 I'm an audio engineer passionate about sound design, music production, and creative technical workflows.
@@ -13,7 +13,7 @@ I enjoy shaping audio experiences, solving sonic problems, and blending technica
 - Experiment with creative signal processing and production techniques
 
 ### 🛠️ Tools & Workflow
-- DAWs: Pro Tools, Ableton Live, Logic Pro, FL Studio
+- DAWs: Pro Tools, Garage Band, Logic Pro, FL Studio
 - Plugins & Processing: EQ, compression, reverb, delay, saturation
 - Hardware: microphones, interfaces, monitors, outboard gear
 - Workflow: session organization, editing, mixing, mastering, file management
@@ -26,7 +26,6 @@ I enjoy shaping audio experiences, solving sonic problems, and blending technica
 - Creative experimentation with synthesis and effects
 
 ### 📫 Connect
-- [Instagram](https://instagram.com/yourhandle)
-- [SoundCloud](https://soundcloud.com/yourprofile)
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Portfolio](https://yourportfolio.com)
+- Instagram: https://instagram.com/Chard.b_
+- LinkedIn: https://www.linkedin.com/in/richardbershtein/?isSelfProfile=true
+
